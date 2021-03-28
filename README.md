@@ -1,0 +1,13 @@
+- 👋 Hi, I’m @yanzhaochang
+- 👀 I’m interested in ...
+- 🌱 I’m currently learning ...
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
+
+<!---
+yanzhaochang/yanzhaochang is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
+Yanzhao Chang, Graduate student, School of electrical engineering, Shandong University.
+Email: changyanzhao1997@163.com
+Major: Application of artificial intelligence in power system analysis. Development of power system simulation program.
